@@ -206,7 +206,7 @@ export default function Login() {
         <div className="relative z-10 max-w-lg text-white space-y-8">
           <div className="space-y-4">
             <h2 className="text-4xl font-display font-bold leading-tight">
-              {settings.tagline || "Streamlining Academic Attendance"} at {settings.schoolName}
+              {settings.tagline || "Streamlining Academic Attendance"}
             </h2>
             <p className="text-lg text-primary-foreground/80 leading-relaxed">
               Efficient, accurate, and real-time attendance monitoring for students and faculty.
